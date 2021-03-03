@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+
+border: 2px solid red;
+
+}
+
+
+
+.container-fluid{
+color: white;
+    /* background-color: rgb(94, 94, 206); */
+}
+a{
+    color: white;
+}
+
+#time{
+
+}
+
+#date{
+
+}
+.jumbotron{
+
+    text-align: center;
+
+}
